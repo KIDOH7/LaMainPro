@@ -43,7 +43,7 @@ return new class extends Migration
 
             $table->dropColumn([
 
-                'is_verified',
+                // 'is_verified',
                 'is_premium',
                 'is_suspended'
 
